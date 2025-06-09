@@ -1,1 +1,2 @@
-# smart-city-inventory-system-laravel-backend
+# SCCC-Backend
+ Backend for Smart City Inventory System and 911
